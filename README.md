@@ -18,10 +18,13 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 
 1. [MVP Scope](./docs/MVP-SCOPE.md) — start here
 2. [Problem Analysis](./docs/01-problem-analysis.md)
-3. [Algorithms & Clinical Rules](./docs/03-algorithms.md)
-4. [Data Model](./docs/04-data-model.md)
-5. [Architecture & Privacy](./docs/06-architecture-privacy.md)
-6. [AI System Prompt](./prompts/system-prompt.md)
+3. [Anti-Patterns (What Not To Do)](./docs/07-anti-patterns.md)
+4. [Algorithms & Clinical Rules](./docs/03-algorithms.md)
+5. [Data Model](./docs/04-data-model.md)
+6. [Architecture & Privacy](./docs/06-architecture-privacy.md)
+7. [UI / UX & Smooth App References](./docs/08-ui-ux-references.md)
+8. [Open-Source References](./docs/02-open-source-references.md)
+9. [AI System Prompt](./prompts/system-prompt.md)
 
 ## Important disclaimers
 
@@ -35,6 +38,7 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 - Research dossier: improved and structured
 - System prompt: strengthened
 - Data model: expanded
+- Anti-patterns and UI references added
 - Implementation: not started
 
 ## License
