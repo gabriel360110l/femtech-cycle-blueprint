@@ -20,14 +20,17 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 2. [Problem Analysis](./docs/01-problem-analysis.md)
 3. [Anti-Patterns (What Not To Do)](./docs/07-anti-patterns.md)
 4. [Common Conditions & Warning Logic](./docs/11-common-conditions-and-warnings.md)
-5. [Algorithms & Clinical Rules](./docs/03-algorithms.md)
-6. [European Standards & Guidelines](./docs/09-european-standards.md)
-7. [Data Model](./docs/04-data-model.md)
-8. [Architecture & Privacy](./docs/06-architecture-privacy.md)
-9. [UI / UX & Smooth App References](./docs/08-ui-ux-references.md)
-10. [Open-Source References](./docs/02-open-source-references.md)
-11. [More Open-Source References](./docs/10-more-open-source-references.md)
-12. [AI System Prompt](./prompts/system-prompt.md)
+5. [Prediction Logic Explained](./docs/12-prediction-logic-explained.md)
+6. [Practical Logging Guide](./docs/13-practical-logging-guide.md)
+7. [Algorithms & Clinical Rules](./docs/03-algorithms.md)
+8. [European Standards & Guidelines](./docs/09-european-standards.md)
+9. [Data Model](./docs/04-data-model.md)
+10. [Architecture & Privacy](./docs/06-architecture-privacy.md)
+11. [Developer Notes](./docs/14-developer-notes.md)
+12. [UI / UX & Smooth App References](./docs/08-ui-ux-references.md)
+13. [Open-Source References](./docs/02-open-source-references.md)
+14. [More Open-Source References](./docs/10-more-open-source-references.md)
+15. [AI System Prompt](./prompts/system-prompt.md)
 
 ## Important disclaimers
 
@@ -38,12 +41,12 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 
 ## Status
 
-- Research dossier: improved and structured
+- Research dossier: improved and structured with detailed explanations
 - European focus added (NVOG, ESHRE, NHG, GDPR)
-- Common conditions (endo, adeno, PCOS, fibroids, PMDD etc.) + warning patterns added
-- Temperature (BBT) guidance included
-- System prompt: strengthened
-- Data model: expanded
+- Common conditions + warning patterns + temperature guidance
+- Prediction logic, practical logging guide and developer notes added
+- System prompt strengthened
+- Data model expanded
 - Implementation: not started
 
 ## License
