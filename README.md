@@ -12,7 +12,7 @@ Most commercial cycle apps:
 - Force users to switch apps between life stages (cycle → TTC → pregnancy → post-partum)
 - Sell or leak intimate health data
 
-This blueprint aims to do better: local-first, symptothermal + probabilistic prediction, pathology-aware, and sensitive to pregnancy loss and fertility treatment.
+This blueprint aims to do better: local-first, symptothermal + probabilistic prediction, pathology-aware, and sensitive to pregnancy loss and fertility treatment. **European-first** (GDPR, NVOG/ESHRE/NHG, metric, Monday start).
 
 ## Recommended reading order
 
@@ -20,11 +20,13 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 2. [Problem Analysis](./docs/01-problem-analysis.md)
 3. [Anti-Patterns (What Not To Do)](./docs/07-anti-patterns.md)
 4. [Algorithms & Clinical Rules](./docs/03-algorithms.md)
-5. [Data Model](./docs/04-data-model.md)
-6. [Architecture & Privacy](./docs/06-architecture-privacy.md)
-7. [UI / UX & Smooth App References](./docs/08-ui-ux-references.md)
-8. [Open-Source References](./docs/02-open-source-references.md)
-9. [AI System Prompt](./prompts/system-prompt.md)
+5. [European Standards & Guidelines](./docs/09-european-standards.md)
+6. [Data Model](./docs/04-data-model.md)
+7. [Architecture & Privacy](./docs/06-architecture-privacy.md)
+8. [UI / UX & Smooth App References](./docs/08-ui-ux-references.md)
+9. [Open-Source References](./docs/02-open-source-references.md)
+10. [More Open-Source References](./docs/10-more-open-source-references.md)
+11. [AI System Prompt](./prompts/system-prompt.md)
 
 ## Important disclaimers
 
@@ -36,9 +38,10 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 ## Status
 
 - Research dossier: improved and structured
+- European focus added (NVOG, ESHRE, NHG, GDPR)
 - System prompt: strengthened
 - Data model: expanded
-- Anti-patterns and UI references added
+- Anti-patterns, UI references and extra open-source projects added
 - Implementation: not started
 
 ## License
