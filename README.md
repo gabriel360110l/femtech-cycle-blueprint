@@ -19,18 +19,23 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 1. [MVP Scope](./docs/MVP-SCOPE.md) — start here
 2. [Problem Analysis](./docs/01-problem-analysis.md)
 3. [Anti-Patterns (What Not To Do)](./docs/07-anti-patterns.md)
-4. [Common Conditions & Warning Logic](./docs/11-common-conditions-and-warnings.md)
-5. [Prediction Logic Explained](./docs/12-prediction-logic-explained.md)
-6. [Practical Logging Guide](./docs/13-practical-logging-guide.md)
-7. [Algorithms & Clinical Rules](./docs/03-algorithms.md)
-8. [European Standards & Guidelines](./docs/09-european-standards.md)
-9. [Data Model](./docs/04-data-model.md)
-10. [Architecture & Privacy](./docs/06-architecture-privacy.md)
-11. [Developer Notes](./docs/14-developer-notes.md)
-12. [UI / UX & Smooth App References](./docs/08-ui-ux-references.md)
-13. [Open-Source References](./docs/02-open-source-references.md)
-14. [More Open-Source References](./docs/10-more-open-source-references.md)
-15. [AI System Prompt](./prompts/system-prompt.md)
+4. [What Users Often Dislike](./docs/19-what-users-dislike.md)
+5. [Mode Separation (Cycle vs Pregnancy)](./docs/15-mode-separation.md)
+6. [Onboarding Principles](./docs/17-onboarding-principles.md)
+7. [Backup Strategy](./docs/16-backup-strategy.md)
+8. [Visual Direction](./docs/18-visual-direction.md)
+9. [Common Conditions & Warning Logic](./docs/11-common-conditions-and-warnings.md)
+10. [Prediction Logic Explained](./docs/12-prediction-logic-explained.md)
+11. [Practical Logging Guide](./docs/13-practical-logging-guide.md)
+12. [Algorithms & Clinical Rules](./docs/03-algorithms.md)
+13. [European Standards & Guidelines](./docs/09-european-standards.md)
+14. [Data Model](./docs/04-data-model.md)
+15. [Architecture & Privacy](./docs/06-architecture-privacy.md)
+16. [Developer Notes](./docs/14-developer-notes.md)
+17. [UI / UX & Smooth App References](./docs/08-ui-ux-references.md)
+18. [Open-Source References](./docs/02-open-source-references.md)
+19. [More Open-Source References](./docs/10-more-open-source-references.md)
+20. [AI System Prompt](./prompts/system-prompt.md)
 
 ## Important disclaimers
 
@@ -41,12 +46,9 @@ This blueprint aims to do better: local-first, symptothermal + probabilistic pre
 
 ## Status
 
-- Research dossier: improved and structured with detailed explanations
-- European focus added (NVOG, ESHRE, NHG, GDPR)
-- Common conditions + warning patterns + temperature guidance
-- Prediction logic, practical logging guide and developer notes added
-- System prompt strengthened
-- Data model expanded
+- Mode separation, backup strategy, onboarding principles and visual direction added
+- Research dossier structured with detailed explanations
+- European focus, common conditions, prediction logic and logging guide included
 - Implementation: not started
 
 ## License
